@@ -12,6 +12,7 @@
 		9A48A8701D6C6F5300C73B09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A86E1D6C6F5300C73B09 /* Main.storyboard */; };
 		9A48A8721D6C6F5300C73B09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A8711D6C6F5300C73B09 /* Assets.xcassets */; };
 		9A48A8751D6C6F5300C73B09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A8731D6C6F5300C73B09 /* LaunchScreen.storyboard */; };
+		9A48A87D1D6C6FC700C73B09 /* photo-1470434151738-dc5f4474c239.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9A48A87C1D6C6FC700C73B09 /* photo-1470434151738-dc5f4474c239.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9A48A8711D6C6F5300C73B09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A48A8741D6C6F5300C73B09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A48A8761D6C6F5300C73B09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A48A87C1D6C6FC700C73B09 /* photo-1470434151738-dc5f4474c239.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "photo-1470434151738-dc5f4474c239.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		9A48A8691D6C6F5300C73B09 /* whatsWeather */ = {
 			isa = PBXGroup;
 			children = (
+				9A48A87C1D6C6FC700C73B09 /* photo-1470434151738-dc5f4474c239.jpeg */,
 				9A48A86A1D6C6F5300C73B09 /* AppDelegate.swift */,
 				9A48A86C1D6C6F5300C73B09 /* ViewController.swift */,
 				9A48A86E1D6C6F5300C73B09 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 				9A48A8751D6C6F5300C73B09 /* LaunchScreen.storyboard in Resources */,
 				9A48A8721D6C6F5300C73B09 /* Assets.xcassets in Resources */,
 				9A48A8701D6C6F5300C73B09 /* Main.storyboard in Resources */,
+				9A48A87D1D6C6FC700C73B09 /* photo-1470434151738-dc5f4474c239.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
